@@ -1,6 +1,7 @@
 # Media API
-<h2>Overview</h2>
+## Overview
 Media API app showcases the following APIs from the Media namespace.
+
 - createFromFile
 - createFromUri
 - Record
@@ -13,7 +14,7 @@ After downloading the zip file of the Visualizer Project from GitHub, perform th
 ## Run the Application
 To run the application in Kony Visualzer, follow these steps:
 1. From the main menu bar select **Build** → **Build and Publish Native**. This opens the Build and Publish Native window.
-2. Set the Post Build Action as Run on my Device and connect your mobile device to your computer.</br>
+2. Set the Post Build Action as Run on my Device and connect your mobile device to your computer.
 #### Note: Once you connect your device, Kony Visualizer automatically detects your device and shows the name of your device under the Configured Devices list.
 3. Select your device from the list of Configured Devices and click **Build** to build the application.
 4. Once your build is successfull, the application launches on your connected device.
