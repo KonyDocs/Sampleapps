@@ -4,4 +4,5 @@ The repository contains the following applications:</br>
 1. Action Sheet API
 2. Alert API
 3. Media API
-4. Theme API
+4. Request App Review API
+5. Theme API
