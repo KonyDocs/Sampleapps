@@ -4,7 +4,7 @@ Media API app showcases the following APIs from the Media namespace.
 
 - [createFromFile](https://docs.kony.com/konylibrary/visualizer/viz_api_dev_guide/Default.htm#kony.media_functions.htm#createFromFile%3FTocPath%3DMedia%2520API%7Ckony.media%2520Namespace%7CFunctions%7C_____1) 
 - [createFromUri](https://docs.kony.com/konylibrary/visualizer/viz_api_dev_guide/Default.htm#kony.media_functions.htm#createFromUri%3FTocPath%3DMedia%2520API%7Ckony.media%2520Namespace%7CFunctions%7C_____2)
-- [Record](https://docs.kony.com/konylibrary/visualizer/viz_api_dev_guide/Default.htm#kony.media_functions.htm#record%3FTocPath%3DMedia%2520API%7Ckony.media%2520Namespace%7CFunctions%7C_____3)
+- [record](https://docs.kony.com/konylibrary/visualizer/viz_api_dev_guide/Default.htm#kony.media_functions.htm#record%3FTocPath%3DMedia%2520API%7Ckony.media%2520Namespace%7CFunctions%7C_____3)
 
 ## Import the Application
 After downloading the zip file of the Visualizer Project from GitHub, perform the following steps to import the application to Kony Visualizer.
