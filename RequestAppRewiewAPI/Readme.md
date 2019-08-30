@@ -8,7 +8,7 @@ Request App Review API app showcases the following APIs:
 After downloading the zip file of the Visualizer Project from GitHub, perform the following steps to import the application to Kony Visualizer.
 
 1. Open Kony Visualizer.
-2. From the main menu select **Project** → **Import** → **Local Project** → **Open as New Project**. Select the ThemeAPI zipped folder and click Open.
+2. From the main menu select **Project** → **Import** → **Local Project** → **Open as New Project**. Select the RequestAppReviewAPI zipped folder and click **Open**.
 
 ## Run the Application
 To run the application in Kony Visualizer, follow these steps:
