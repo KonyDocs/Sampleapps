@@ -1,4 +1,4 @@
-# Internationalization API
+# Phone (Contact Namespace) API
 ## Overview
 Internationalization API app showcases the following APIs:
 
