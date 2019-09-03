@@ -12,7 +12,7 @@ After downloading the zip file of the Visualizer Project from GitHub, perform th
 2. From the main menu select **Project** → **Import** → **Local Project** → **Open as New Project**. Select the MediaAPI zipped folder and click Open.
 
 ## Run the Application
-To run the application in Kony Visualzer, follow these steps:
+To run the application in Kony Visualizer, follow these steps:
 1. From the main menu bar select **Build** → **Build and Publish Native**. This opens the Build and Publish Native window.
 2. Set the Post Build Action as Run on my Device and connect your mobile device to your computer.
 #### Note: Once you connect your device, Kony Visualizer automatically detects your device and shows the name of your device under the Configured Devices list.
