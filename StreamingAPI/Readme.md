@@ -9,9 +9,9 @@ Streaming API app showcases the following APIs:
 After downloading the zip file of the Visualizer Project from GitHub, perform the following steps to import the application to Kony Visualizer.
 
 1. Open Kony Visualizer.
-2. From the main menu select **Project** → **Import** → **Local Project** → **Open as New Project**. Select the Streaming zipped folder and click Open.
+2. From the main menu select **Project** → **Import** → **Local Project** → **Open as New Project**. Select the Streaming zipped folder and click **Open**.
 
-#### Note: Before you run your project follow these steps to setup a streaming server:
+#### Note: Before you run your project, follow these steps to setup a streaming server:
 
 1. Open [Kony Visualizer API Guide](https://docs.kony.com/konylibrary/visualizer/viz_api_dev_guide/Default.htm#streaming_apis.htm%3FTocPath%3DStreaming%2520API%7C_____0), and navigate to **Streaming API**. 
 2. Scroll down the document to find **Test the Streaming API** and download the zip by clicking **Streamingserver.zip**. 
