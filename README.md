@@ -22,13 +22,14 @@ The repository contains the following applications:</br>
 19. Math API
 20. Media API
 21. Operating System API
-22. Request App Review API
-23. Runtime Permission API
-24. Standard Kony API
-25. Store API
-26. Streaming API
-27. String API
-28. Theme API
-29. Timer API
-30. Toast API
+22. Phone API
+23. Request App Review API
+24. Runtime Permission API
+25. Standard Kony API
+26. Store API
+27. Streaming API
+28. String API
+29. Theme API
+30. Timer API
+31. Toast API
  
