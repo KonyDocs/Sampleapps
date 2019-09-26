@@ -1,6 +1,6 @@
-# String API
+# Store API
 ## Overview
-String API app showcases the following APIs:
+Store API app showcases the following APIs:
 
 - [clear](https://docs.kony.com/konylibrary/visualizer/viz_api_dev_guide/Default.htm#kony.store_functions.htm#localstorage.clear%3FTocPath%3DOffline%2520Data%2520Access%2520API%7Ckony.store%2520Namespace%7CFunctions%7C_____1)
 - [getItem](https://docs.kony.com/konylibrary/visualizer/viz_api_dev_guide/Default.htm#kony.store_functions.htm#localstorage.getitem%3FTocPath%3DOffline%2520Data%2520Access%2520API%7Ckony.store%2520Namespace%7CFunctions%7C_____2)
