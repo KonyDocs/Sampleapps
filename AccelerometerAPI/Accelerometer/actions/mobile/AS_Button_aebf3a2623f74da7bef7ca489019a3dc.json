@@ -1,0 +1,31 @@
+{
+    "AS_Button_aebf3a2623f74da7bef7ca489019a3dc": {
+        "id": "AS_Button_aebf3a2623f74da7bef7ca489019a3dc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterAccelerometer",
+            "type": "forms",
+            "platform": null,
+            "KUID": "aac9ba446cb5408e992cf6228903317f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_bd87b700850143418e2507a84c0acd9d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAclmeterOptions",
+            "formKUID": "i8d69fc7bed6440e9c3c83e55b8ec3cf",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"headerButtonLeft\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

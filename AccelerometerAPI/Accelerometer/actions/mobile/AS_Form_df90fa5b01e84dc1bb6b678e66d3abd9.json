@@ -1,0 +1,28 @@
+{
+    "AS_Form_df90fa5b01e84dc1bb6b678e66d3abd9": {
+        "id": "AS_Form_df90fa5b01e84dc1bb6b678e66d3abd9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterAccelerometer",
+            "type": "forms",
+            "platform": null,
+            "KUID": "aac9ba446cb5408e992cf6228903317f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ce0a49ed742447d79230e1ad949e2315",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetShake",
+            "display": "resetShake",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}
