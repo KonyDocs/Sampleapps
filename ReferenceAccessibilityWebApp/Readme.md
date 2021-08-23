@@ -6,7 +6,7 @@ This showcases how Quantum Visualizer can be used to generate accessible web-bas
 
 ## Additional Resources:
 
-- [Accessibility Overviw](https://docs.kony.com/konylibrary/visualizer/app_design_dev/Content/Accessibility_Overview.htm)
+- [Accessibility Overview](https://docs.kony.com/konylibrary/visualizer/app_design_dev/Content/Accessibility_Overview.htm)
 - [Enable Accessibility in Visualizer](https://docs.kony.com/konylibrary/visualizer/app_design_dev/Content/Accessibility_Visualizer.htm#top)
 - [Base Camp Article](https://basecamp.temenos.com/s/article-detail/a042K00001K8cZkQAJ/making-web-apps-accessible-wcag-20-21-on-visualizer)
 - [WCAG Link](https://www.w3.org/WAI/WCAG21/quickref/)
