@@ -32,5 +32,6 @@ The repository contains the following applications:</br>
 29. Theme API
 30. Timer API
 31. Toast API
-32. AccessibilityWebApp
+32. Accessibility Web App
+33. Lottie Component Mobile App
  
